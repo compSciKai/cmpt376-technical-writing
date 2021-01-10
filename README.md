@@ -23,7 +23,15 @@ Links to projects are found here:
 - Technical Report 2
 - Writing Journal
 
+### Writing for Communication and Social Change
+
 During this course, another writing course was conducted concurrently, called CMNS130, Communication and Social Change; In CMNS130 I used methods learned in CMPT376, and earned grades above the class average, and earned 92% on my final project. The final project was a 2100 word essay worth 30% of the grade, and found here: TODO:Link
+
+### Writing for Reports in Affective Computing
+
+TODO
+
+### Writing for Github Readme Files
 
 In addition to these in-school applications to technical writing, I often use what I have learned in writing quick and concise README files in each of my Github repositories. I've found writing is often supplimentary to visual communication, and aim to include Gifs for each of my Github projects. Personally consuming media visually (opposed to written), can often communicate a message much more effectively than a written description, so including both visual and written content is the most effective form of communication. 
 
