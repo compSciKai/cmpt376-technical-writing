@@ -1,11 +1,11 @@
 # Notable Assignment Grading 
 
-![](/grades/cmns130-term-paper-grades.png)
+![](/grades/cmns130-term-paper-grade.png)
 
 ![](/grades/peer-reviews-grade.png)
 
-![](/grades/real-world-edits-grades.png)
+![](/grades/real-world-edits-grade.png)
 
-![](/grades/research-paper-revisions-grades.png)
+![](/grades/research-paper-revisions-grade.png)
 
-![](/grades/survey-paper-grades.png)
+![](/grades/survey-paper-grade.png)
