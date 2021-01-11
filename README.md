@@ -36,7 +36,10 @@ In addition to these in-school applications to technical writing, I often use wh
 
 ## Interest in Writing, and Touch Typing
 
-Learning to touch type has vastly increased my writing interest and writing ability. I've learned to type at 85 WPM. Looking at a keyboard as you type limits writing creativity; thinking of what to write, and then looking at a keyboard to type makes your brain switch between logical tasks, breaking train of thought. Being able to think of something to write, and writing it at the same time, not only makes writing quicker, but the brain does not need to actively think about what to write next; the context switch is virtually eliminated. I would recommend learning to touch type to anyone, especially since more of our productivity is conducted through computers everyday. I recommend finding a touch typing program and practicing touch typing 20 minutes a day. 
+Learning to touch type has vastly increased my writing interest and writing ability. I've learned to type at 85 WPM. Looking at a keyboard as you type limits writing creativity; thinking of what to write, and then looking at a keyboard to type makes your brain switch between logical tasks, breaking train of thought. Being able to think of something to write, and writing it at the same time, not only makes writing quicker, but the brain does not need to actively think about what to type next; the context switch is virtually eliminated, and creative writing can occur unimpeded. 
+
+I would recommend learning to touch type to anyone, especially since more of our productivity is conducted through computers everyday. I recommend finding a touch typing program and practicing touch typing 20 minutes a day. 
+
 
 
 
