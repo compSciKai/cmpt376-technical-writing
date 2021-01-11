@@ -1,6 +1,6 @@
 # Formal Education in Technical Writing
 
-Most of this repo uses material covered in CMPT376, a course covering professional writing in computing science, including format conventions and technical reports. Attention was paid to group dynamics, including team leadership, dispute resolution, cognitive bias, professional ethics and collaborative writing. Research methods, and control tools such as LaTeX were used and discussed. The textbook for course was TODO:Link
+Most of this repo uses material covered in CMPT376, a course covering professional writing in computing science, including format conventions and technical reports. Attention was paid to group dynamics, including team leadership, dispute resolution, cognitive bias, professional ethics and collaborative writing. Research methods, and control tools such as LaTeX were used and discussed. The textbook for course was [Style: Lessons in Clarity and Grace](https://www.pearson.com/us/higher-education/product/Williams-Style-Lessons-in-Clarity-and-Grace-12th-Edition/9780134080413.html)
 
 During this course, I received a final grade above the class average, and most of my assignments received an A grade. 
 
@@ -16,7 +16,7 @@ Notible projects in CMPT376 included revising a published research paper, peer r
 
 Links to projects are found here:
 
-- Research Paper Revisions
+- [Research Paper Revisions](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A1%20Final%20Draft.pdf)
 - [Real world edits (revisions)](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A2%20Real%20World%20Edits.pdf)
 - [Technical Report 1](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20Research%20Proposal%20Final.pdf)
 - [Technical Report 2](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A4%20SP%20Final.pdf)
@@ -28,7 +28,9 @@ During CMPT376, another writing course was conducted concurrently, called CMNS13
 
 ### Writing for Reports in Affective Computing
 
-TODO
+[Deep Dive Research Paper: Curiosity](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/Deep_Dive_Research_Paper.pdf)
+
+This paper was used in CMPT419: Affective Computing. Please excuse the formatting. Latex is weird. 
 
 ### Writing for Github Readme Files
 
