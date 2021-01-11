@@ -28,9 +28,7 @@ During CMPT376, another writing course was conducted concurrently, called CMNS13
 
 ### Writing for Reports in Affective Computing
 
-[Deep Dive Research Paper: Curiosity](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/Deep_Dive_Research_Paper.pdf)
-
-This paper was used in CMPT419: Affective Computing. Please excuse the formatting. Latex is weird. 
+[Deep Dive Research Paper: Curiosity](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/Deep_Dive_Research_Paper.pdf) This paper was used in CMPT419: Affective Computing which followed my studies in CMPT376. Please excuse the formatting. Latex is weird. 
 
 ### Writing for Github Readme Files
 
