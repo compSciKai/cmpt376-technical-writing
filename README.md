@@ -32,7 +32,7 @@ During CMPT376, another writing course was conducted concurrently, called CMNS13
 
 ### Writing for Github Readme Files
 
-In addition to these in-school applications to technical writing, I often use what I have learned in writing quick and concise README files in each of my Github repositories. I've found writing is often supplimentary to visual communication, and aim to include Gifs for each of my Github projects. Personally consuming media visually (opposed to written), can often communicate a message much more effectively than a written description, so including both visual and written content is the most effective form of communication. 
+In addition to these in-school applications to technical writing, I often use what I have learned in writing quick and concise README files in each of my Github repositories. I've found writing is often supplimentary to visual communication, and aim to include Gifs for each of my Github projects. In my opinion, consuming media visually (opposed to written), can often communicate a message much more effectively than a written description. I aim to use both. 
 
 
 
