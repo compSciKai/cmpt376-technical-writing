@@ -16,7 +16,7 @@ Notible projects in CMPT376 included revising a published research paper, peer r
 
 Links to projects are found here:
 
-- [Real world edits (revisions)](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A2%20Real%20World%20Edits.pdf)
+- [Real World Edits (revisions)](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A2%20Real%20World%20Edits.pdf)
 - [Technical Report 2](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A4%20SP%20Final.pdf)
 - [Technical Report 1](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20Research%20Proposal%20Final.pdf)
 - [Research Paper Revisions](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/CMPT376%20-%20A1%20Final%20Draft.pdf)
@@ -28,15 +28,15 @@ During CMPT376, another writing course was conducted concurrently, called CMNS13
 
 ### Writing for Reports in Affective Computing
 
-[Deep Dive Research Paper: Curiosity](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/Deep_Dive_Research_Paper.pdf) This paper was used in CMPT419: Affective Computing, took place after my studies in CMPT376. Please excuse the formatting. LaTeX is weird. 
+[Deep Dive Research Paper: Curiosity](https://github.com/compSciKai/cmpt376-technical-writing/blob/main/Deep_Dive_Research_Paper.pdf) This paper was used in CMPT419: Affective Computing, taking place after my studies in CMPT376. Please excuse the formatting. LaTeX is weird. 
 
 ### Writing for Github Readme Files
 
-In addition to these in-school applications to technical writing, I often use what I have learned in writing quick and concise README files in each of my Github repositories. I've found writing is often supplimentary to visual communication, and aim to include Gifs for each of my Github projects. In my opinion, consuming media visually (opposed to written), can often communicate a message much more effectively than a written description. I aim to use both. 
+In addition to these in-school applications to technical writing, I often use what I have learned in writing quick and concise README files in each of my Github repositories. I've found writing is often supplementary to visual communication, and aim to include Gifs for each of my Github projects. In my opinion, consuming media visually (opposed to written), can often communicate a message much more effectively than a written description. I aim to use both. 
 
 ## Interest in Writing, and Touch Typing
 
-Learning to touch type has vastly increased my writing interest and writing ability. I've learned to type at 85 WPM. Looking at a keyboard as you type limits writing creativity; thinking of what to write, and then looking at a keyboard to type makes your brain switch between logical tasks, breaking train of thought. Being able to think of something to write, and writing it at the same time, not only makes writing quicker, but the brain does not need to actively think about what to write next; the context switch is virtually eliminated. I would recommend learning to touch type to anyone, especially since more of our productivity is conducted through computers everyday. I reccomend finding a touch typing program and practicing touch typing 20 minutes a day. 
+Learning to touch type has vastly increased my writing interest and writing ability. I've learned to type at 85 WPM. Looking at a keyboard as you type limits writing creativity; thinking of what to write, and then looking at a keyboard to type makes your brain switch between logical tasks, breaking train of thought. Being able to think of something to write, and writing it at the same time, not only makes writing quicker, but the brain does not need to actively think about what to write next; the context switch is virtually eliminated. I would recommend learning to touch type to anyone, especially since more of our productivity is conducted through computers everyday. I recommend finding a touch typing program and practicing touch typing 20 minutes a day. 
 
 
 
