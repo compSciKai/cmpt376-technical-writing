@@ -1,3 +1,6 @@
+# professional Technical Writing Publications
+https://blog.collabware.com/author/kainoa-seaman
+
 # Formal Education in Technical Writing
 
 Most of this repo uses material covered in CMPT376, a course covering professional writing in computing science, including format conventions and technical reports. Attention was paid to group dynamics, including team leadership, dispute resolution, cognitive bias, professional ethics and collaborative writing. Research methods, and control tools such as LaTeX were used and discussed. The textbook for this course was [Style: Lessons in Clarity and Grace](https://www.pearson.com/us/higher-education/product/Williams-Style-Lessons-in-Clarity-and-Grace-12th-Edition/9780134080413.html)
